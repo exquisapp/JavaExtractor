@@ -1,6 +1,6 @@
 # JavaExtractor
 
-# navigate to the cloned directory
+## navigate to the cloned directory
 
 ## Do the following on your terminal:
 
